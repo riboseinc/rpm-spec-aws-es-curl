@@ -1,11 +1,9 @@
 = Ribose RPM Spec for aws-es-curl
 
-image:https://img.shields.io/travis/riboseinc/rpm-spec-aws-es-curl/master.svg[Build Status (Travis CI), link=https://travis-ci.org/riboseinc/rpm-spec-aws-es-curl]
+image:https://gitlab.com/ribose/rpm-spec/rpm-spec-aws-es-curl/badges/master/pipeline.svg[Build Status (GitLab CI), link=https://gitlab.com/ribose/rpm-spec/rpm-spec-aws-es-curl/commits/master]
 
 == Introduction
 
 This repository hosts the RPM spec & related Docker files for building the RPM
 package.
 
-It uses code from https://github.com/riboseinc/rpm-specs[`rpm-specs`]
-(added as a Git submodule).
